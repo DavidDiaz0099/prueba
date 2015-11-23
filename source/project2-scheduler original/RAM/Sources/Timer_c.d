@@ -1,12 +1,12 @@
-Sources/Timer_c.obj: C:\Users\HP\ 240\workspace\project2-scheduler\ original\Sources\Timer.c \
+Sources/Timer_c.obj: C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\project2-scheduler\ original\Sources\Timer.c \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\lib_ewl.prefix \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\common.prefix \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\ewl_c_version.h \
-	C:\Users\HP\ 240\workspace\project2-scheduler\ original\Prefix\MPC5606B_RAM_VLE.prefix \
-	C:\Users\HP\ 240\workspace\project2-scheduler\ original\Project_Headers\Timer.h \
-	C:\Users\HP\ 240\workspace\project2-scheduler\ original\Project_Headers\stdtypedef.h \
-	C:\Users\HP\ 240\workspace\project2-scheduler\ original\Project_Headers\MPC5606B.h \
-	C:\Users\HP\ 240\workspace\project2-scheduler\ original\Project_Headers\typedefs.h \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\project2-scheduler\ original\Prefix\MPC5606B_RAM_VLE.prefix \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\project2-scheduler\ original\Project_Headers\Timer.h \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\project2-scheduler\ original\Project_Headers\stdtypedef.h \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\project2-scheduler\ original\Project_Headers\MPC5606B.h \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\project2-scheduler\ original\Project_Headers\typedefs.h \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\stdint.h \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\ansi_parms.h \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\ewlGlobals.h \

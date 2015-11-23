@@ -20,9 +20,9 @@ void scheduler(void);
 typedef enum {
 	
 	E_ISK_TASK0,
-	E_ISK_TASK1,
-	E_ISK_TASK2,
-	E_ISK_TASK3,
+	//E_ISK_TASK1,
+	//E_ISK_TASK2,
+	//E_ISK_TASK3,
 	
 	/*DONT MODIFY THIS LINE*/	
 	E_ISK_TASK_NUM
@@ -39,17 +39,18 @@ typedef struct{
 
 const S_TASKS TASK_LIST[E_ISK_TASK_NUM]={
 		{task1, 200, 1},
-		{task2, 400, 3},
-		{task3, 800, 5},
-		{task4, 1600, 17}
+		//{task2, 400, 3},
+		//{task3, 800, 5},
+		//{task4, 1600, 17}
 				
 };
 
 
 void task1(void)
 {
+	
 	SIU.GPDO[LED_1].B.PDO ^= 1;//led1 on  si esta apagado que lo prenda y viceversa
-	SIU.GPDO[0].B.PDO ^=1;
+	SIU.GPDO[0].B.PDO =1;
 	
 }
 
