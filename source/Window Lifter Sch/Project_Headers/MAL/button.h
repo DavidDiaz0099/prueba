@@ -83,10 +83,6 @@ enum MOVIMIENTO
 	
 };
 
-/* Exported Variables */
-/*============================================================================*/
-
-
 /* Exported functions prototypes */
 /*============================================================================*/
 extern void button_validation (void);
