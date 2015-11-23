@@ -5,7 +5,7 @@
 ################################################################################
 
 export GNU_Make_Install_DirEnv=$(CWInstallLocationEnv)/gnu/bin
-export ProjDirPath=C:/Users/HP 240/Desktop/doc para proyecto 3 wl con scheduler/WindowLifter-master/Window Lifter Sch
+export ProjDirPath=C:/Users/HP 240/Desktop/prueba repositotio local/source/Window Lifter Sch
 export CWInstallLocationEnv=C:/Freescale/CW MCU v10.6.4
 export MCUToolsBaseDirEnv=$(CWInstallLocationEnv)/MCU
 export PAToolsDirEnv=$(CWInstallLocationEnv)/MCU/PA_Tools/Command_Line_Tools

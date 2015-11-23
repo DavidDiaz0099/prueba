@@ -515,12 +515,12 @@ Memory map:
                .sdata2 40002184 00000000 00001030          0
                 .sbss2 40002184 00000000 00001030          0
                   .bss 40002188 00000010 00001030          0
-      .PPC.EMB.apuinfo 000090b4 00000000 0000a0f0          0
+      .PPC.EMB.apuinfo 00008c04 00000000 00009c40          0
          .debug_abbrev          0000013b 00001030
-           .debug_info          000027dd 0000116b
-           .debug_line          00004b2c 00003948
-            .debug_loc          00000554 00008474
-       .debug_pubnames          0000065c 000089c8
+           .debug_info          0000267f 0000116b
+           .debug_line          000047da 000037ea
+            .debug_loc          00000554 00007fc4
+       .debug_pubnames          0000065c 00008518
 
 
 Linker generated symbols:
