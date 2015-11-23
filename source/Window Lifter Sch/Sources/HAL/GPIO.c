@@ -70,6 +70,7 @@ void GPIO_config(void)
   	SIU.PCR[BUTTON1].R = 0x100;	
   	SIU.PCR[BUTTON2].R = 0x100;
   	SIU.PCR[BUTTON3].R = 0x100;
+  	SIU.PCR[13].R = 0x200;
 }
  /* Notice: the file ends with a blank new line to avoid compiler warnings */
 

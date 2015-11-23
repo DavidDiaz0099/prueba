@@ -1,12 +1,12 @@
-Sources/HAL/GPIO_c.obj: C:\Users\HP\ 240\Desktop\doc\ para\ proyecto\ 3\ wl\ con\ scheduler\WindowLifter-master\Window\ Lifter\ Sch\Sources\HAL\GPIO.c \
+Sources/HAL/GPIO_c.obj: C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\Window\ Lifter\ Sch\Sources\HAL\GPIO.c \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\lib_ewl.prefix \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\common.prefix \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\ewl_c_version.h \
-	C:\Users\HP\ 240\Desktop\doc\ para\ proyecto\ 3\ wl\ con\ scheduler\WindowLifter-master\Window\ Lifter\ Sch\Prefix\MPC5606B_RAM_VLE.prefix \
-	C:\Users\HP\ 240\Desktop\doc\ para\ proyecto\ 3\ wl\ con\ scheduler\WindowLifter-master\Window\ Lifter\ Sch\Project_Headers\HAL\GPIO.h \
-	C:\Users\HP\ 240\Desktop\doc\ para\ proyecto\ 3\ wl\ con\ scheduler\WindowLifter-master\Window\ Lifter\ Sch\Project_Headers\HAL\type_definitions.h \
-	C:\Users\HP\ 240\Desktop\doc\ para\ proyecto\ 3\ wl\ con\ scheduler\WindowLifter-master\Window\ Lifter\ Sch\Project_Headers\HAL\MPC5606B.h \
-	C:\Users\HP\ 240\Desktop\doc\ para\ proyecto\ 3\ wl\ con\ scheduler\WindowLifter-master\Window\ Lifter\ Sch\Project_Headers\HAL\typedefs.h \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\Window\ Lifter\ Sch\Prefix\MPC5606B_RAM_VLE.prefix \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\Window\ Lifter\ Sch\Project_Headers\HAL\GPIO.h \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\Window\ Lifter\ Sch\Project_Headers\HAL\type_definitions.h \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\Window\ Lifter\ Sch\Project_Headers\HAL\MPC5606B.h \
+	C:\Users\HP\ 240\Desktop\prueba\ repositotio\ local\source\Window\ Lifter\ Sch\Project_Headers\HAL\typedefs.h \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\stdint.h \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\ansi_parms.h \
 	C:\Freescale\CW\ MCU\ v10.6.4\MCU\PA_Support\ewl\EWL_C\include\ewlGlobals.h \
